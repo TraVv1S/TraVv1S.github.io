@@ -30,7 +30,8 @@
 
 body {
     font-family: "rfTone";
-    background-color: #262637;
+    /* background-color: #262637; */
+    background: radial-gradient(#262637, #171725);
 }
 
 h1, h2 {
@@ -99,7 +100,7 @@ button {
 
 .banner__wrapper {
     
-    background: url(./image/stas.png) no-repeat right ;
+    background: url(./image/stas_m.png) no-repeat right ;
     background-size: contain;
     position: relative;
     box-sizing: border-box;
